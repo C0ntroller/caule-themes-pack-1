@@ -1,3 +1,5 @@
+Fork to replace the (for whatever reason 4k) backgrounds with radial gradients. At least the ones I use.
+
 # Caule Themes Pack 1 - by caule.studio
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=flat-square)](https://github.com/hacs/integration)
 [![ha brasil](https://img.shields.io/static/v1?label=HA%20Brasil&message=forum&color=green&style=flat-square)](https://forum.homeassistantbrasil.com.br/t/caule-themes-pack-1-by-caulecriativo-com/1422)

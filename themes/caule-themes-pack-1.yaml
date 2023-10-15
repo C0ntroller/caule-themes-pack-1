@@ -1250,7 +1250,7 @@ Caule Black Rose Glass:
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: 8px
   # Place the backgrounds in the folder  config/www/images/backgrounds 
-  lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-themes-pack-1/rose.jpg") fixed'
+  lovelace-background: 'center / cover no-repeat radial-gradient(circle at 40% 70%, #753647 0%, #0c0606 60%) fixed'
   # Main colors
   primary-color: "#aa3151"
   light-primary-color: "#b8536d"
@@ -1366,7 +1366,7 @@ Caule Black Purple Glass:
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: 8px
   # Place the backgrounds in the folder  config/www/images/backgrounds 
-  lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-themes-pack-1/purple.jpg") fixed'
+  lovelace-background: 'center / cover no-repeat radial-gradient(circle at 40% 70%, #442753 0%, #0a060d 60%) fixed'
   # Main colors
   primary-color: "#904eab"
   light-primary-color: "#c983e4"
@@ -2178,7 +2178,7 @@ Caule Black Pink Glass:
   # Change the value below 8px to 0px to remove the rounded corners
   ha-card-border-radius: 8px
   # Place the backgrounds in the folder  config/www/images/backgrounds 
-  lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/caule-themes-pack-1/pink.jpg") fixed'
+  lovelace-background: 'center / cover no-repeat radial-gradient(circle at 40% 70%, #753648 0%, #0B0606 60%) fixed'
   # Main colors
   primary-color: "#f36f92"
   light-primary-color: "#ffa8c9"
